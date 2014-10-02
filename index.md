@@ -1,46 +1,90 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Environmental Geochemistry
+header: Brown University
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+The laboratory component consists of four sessions for the `Fall 2014` semester:
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+<table class="table table-striped table-hover ">
 
-## Update Author Attributes
+<thead>
+  <tr>
+    <th>#</th>
+    <th>Date</th>
+    <th>Topic</th>
+    <th>Analysis</th>
+    <th>Equipment</th>
+  </tr>
+</thead>
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+<tbody>
+  <tr>
+  <td>1</td>
+  <td>9/13/2014</td>
+  <td>
+      <a href="/map.html"><span class="label label-primary">Sampling</span></a>
+  </td>
+  <td>
+      <span class="label label-default">pH</span>
+      <span class="label label-default">alkalinity</span>
+      <span class="label label-default">dissolved oxygen</span>
+  </td>
+  <td>
+      <span class="label label-info">field sampling equipment</span>
+      <span class="label label-info">in-situ measurment probes</span>
+  </td>
+  </tr>
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+  <tr>
+  <td>2</td>
+  <td>9/30/2014</td>
+  <td>
+      <a href="/nutrients.html"><span class="label label-success">Nutrients</span></a>
+  </td>
+  <td>
+      <span class="label label-default">NO<sub>3</sub></span>
+      <span class="label label-default">NH<sub>4</sub></span>
+      <span class="label label-default">PO<sub>4</sub></span>
+      <span class="label label-default">Si</span></td>
+  <td>
+      <span class="label label-info">continuous flow spectrophotometer</span>
+  </td>
+  </tr>
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+  <tr>
+  <td>3</td>
+  <td>10/28/2014</td>
+  <td>
+      <span class="label label-danger">Organics</span>
+  </td>
+  <td>
+      <span class="label label-default">PAHs</span>
+      <span class="label label-default">PCBs</span>
+  </td>
+  <td>
+      <span class="label label-info">GC-MS</span>
+  </td>
+  </tr>
 
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
+  <tr>
+  <td>4</td>
+  <td>11/4/2014</td>
+  <td>
+      <span class="label label-warning">Metals</span>
+  </td>
+  <td>
+      <span class="label label-default">Cu</span>
+      <span class="label label-default">Zn</span>
+      <span class="label label-default">Cd</span>
+      <span class="label label-default">Hg</span>
+      <span class="label label-default">Cr</span>
+  </td>
+  <td>
+      <span class="label label-info">ICP-MS</span>
+  </td>
+  </tr>
+</tbody>
+</table>
 
