@@ -14,3 +14,9 @@
 .post-full .date {
   margin-bottom: 20px;
   font-weight: bold; }
+
+.page-header {
+  padding-bottom: 9.5px;
+  margin: 12px 0 1px;
+  border-bottom: 1px solid transparent;
+}
