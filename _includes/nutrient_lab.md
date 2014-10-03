@@ -1,3 +1,7 @@
+## Table of Contents
+ 1. Introduction
+ 2. Lab Guide
+
 ## Nitrogen
 Nitrogen (<span class="label label-warning">N</span>) is ubiquitous in biological systems as a main building block for DNA, RNA, proteins and several other compounds. The nitrogen cycle has been severely modified by humans, with anthropogenic processes accounting for more than half of the total nitrogen fixed from the atmosphere every year. It's also one of the more complex element cycles because **N** can exist in several oxidation states ranging from `-5` to `+5`. The distribution of **N** species in natural waters depends on its redox potential. In natural waters, the inorganic nitrogen pool is generally small and the *N* residence time is typically short due to biological processes recycling this element efficiently. Physical processes of fixation, assimilation, and metabolic pathways such as ammonification, nitrification, denitrification and ANAMMOX transform **N** between its major forms in natural waters, which include: <span class="label label-default">NO<sub>3</sub><sup>-</sup></span> <span class="label label-default">NO<sub>2</sub><sup>-</sup></span> <span class="label label-default">N<sub>2</sub></span> <span class="label label-default">NH<sub>4</sub><sup>+</sup></span> <span class="label label-default">NH<sub>3</sub></span>
 
@@ -19,4 +23,27 @@ Inorganic forms of **N** and **P** have major affects on aquatic ecosystems, the
 Where, `A` is the absorbance of a specific wavelength of light, `a` is the molar absorptivity coefficient, `b` is the path length that the light travelled, and `c` is the concentration of the absorbing species in solution. In this lab session, we will use absorbance measurements obtained for our samples to calculate the concentration of two forms of soluble **N** species (<span class="label label-default">NO<sub>3</sub><sup>-</sup></span> and <span class="label label-default">NH<sub>4</sub><sup>+</sup></span>) and the primary form of dissolved inorganic **P** (<span class="label label-default">PO<sub>4</sub><sup>3-</sup></span>). The abosorbances of our **Hundred Acre Cove** samples will be measured using a Westco Autoanalyzer, a continuous flow spectrophotometer which automatically processes samples with a light absorbing compound and measures the resulting absorbances with a built-in spectrophotometer.
 
 <center><a href="http://imgur.com/eNz7vyK"><img src="http://i.imgur.com/eNz7vyK.png" title="" width="390" height="330"></a></center>
+
+
+## Calibration Standards
+
+Prepare three <span class="label label-default">NO<sub>3</sub><sup>-</sup></span> calibration standards using the stock solution provided by the TA. You'll need the following materials:
+
+  1. 10 mM <span class="label label-default">NO<sub>3</sub><sup>-</sup></span> stock solution.
+  2. DI water
+  3. 10 mL plastic test tubes
+  4. pipettes
+
+The calibration standards should cover the range of concentrations we expect our samples to fall within. For our samples, these values are approximately 0.0001 - 0.1 mM. Standards may be any concentration within this range, and should have a final volume between 3-10 mL. It is up to each student to determine how to preprare their standarda. All materials and pipettes will be provided. The following equation will help guide you in preparing your calibration standards:
+
+<br><center> M<sub>1</sub>V<sub>1</sub> = M<sub>2</sub>V<sub>2</sub></center><br>
+
+where, M<sub>1</sub> is the concentration of the starting solution, M<sub>2</sub> is the desired concentration of the solution you're preparing, V<sub>1</sub> is the volume taken from the starting solution, and V<sub>2</sub> is the final volume of the new solution. For example, in order to prepare 10 mL of a 0.1 mM <span class="label label-default">NO<sub>3</sub><sup>-</sup></span> solution from a stock solution of 10 mM <span class="label label-default">NO<sub>3</sub><sup>-</sup></span>:
+
+<br><center>10 mM * V<sub>1</sub> = 0.1 mM * 10 mL</center><br>
+<center>V<sub>1</sub> = (0.1 mM * 10 mL) / 10 mM</center><br>
+<center>V<sub>1</sub> = 0.1 mL</center><br>
+
+Taking 0.1 mL (V<sub>1</sub>) from the 10 mM starting solution (M<sub>1</sub>) and diluting it with 9.9 mL of water, gives the desired 10 mL (V<sub>2</sub>), 0.1 mM solution (M<sub>2</sub>). Use the handout provided by the TA to record the concentration and volume of the calibration standards you prepared.
+
 
