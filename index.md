@@ -5,7 +5,7 @@ header: Brown University
 ---
 {% include JB/setup %}
 
-The laboratory component consists of four sessions for the `Fall 2014` semester:
+The laboratory component consists of four sessions for the **Fall 2014** semester:
 
 <table class="table table-striped table-hover ">
 
