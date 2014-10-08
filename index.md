@@ -16,6 +16,7 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
     <th>Topic</th>
     <th>Analysis</th>
     <th>Equipment</th>
+    <th>Lab Report Due By</th>
   </tr>
 </thead>
 
@@ -35,6 +36,7 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
       <span class="label label-info">field sampling equipment</span>
       <span class="label label-info">in-situ measurment probes</span>
   </td>
+  <td>--</td>
   </tr>
 
   <tr>
@@ -51,26 +53,12 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
   <td>
       <span class="label label-info">continuous flow spectrophotometer</span>
   </td>
+  <td>10/17/2014</td>
   </tr>
 
-  <tr>
+ <tr>
   <td>3</td>
-  <td>10/28/2014</td>
-  <td>
-      <span class="label label-danger">Organics</span>
-  </td>
-  <td>
-      <span class="label label-default">PAHs</span>
-      <span class="label label-default">PCBs</span>
-  </td>
-  <td>
-      <span class="label label-info">GC-MS</span>
-  </td>
-  </tr>
-
-  <tr>
-  <td>4</td>
-  <td>11/4/2014</td>
+  <td>10/14/2014</td>
   <td>
       <span class="label label-warning">Metals</span>
   </td>
@@ -84,7 +72,25 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
   <td>
       <span class="label label-info">ICP-MS</span>
   </td>
+  <td>11/3/2014</td>
   </tr>
+
+  <tr>
+  <td>4</td>
+  <td>10/28/2014</td>
+  <td>
+      <span class="label label-danger">Organics</span>
+  </td>
+  <td>
+      <span class="label label-default">PAHs</span>
+      <span class="label label-default">PCBs</span>
+  </td>
+  <td>
+      <span class="label label-info">GC-MS</span>
+  </td>
+  <td>11/14/2014</td>
+  </tr>
+
 </tbody>
 </table>
 <br>
@@ -154,7 +160,7 @@ See below for information regarding the problem sets assigned during class.
 
   <tr>
   <td>7</td>
-  <td>12/2/2014</td>
+  <td>12/4/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Rivers & Lakes</span></a></td>
   <td><span></span></td>
   <td><span></span></td>
