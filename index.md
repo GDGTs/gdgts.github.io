@@ -55,7 +55,8 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
       <span class="label label-info">UV-Vis</span>
   </td>
   <td>10/17/2014</td>
-  <td><a href="https://canvas.brown.edu/courses/932674/files/43331826/download?wrap=1">Download</a></td>
+  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/Geo1370%20-%20Nutrient%20Lab%20Report.doc?raw=true">Report</a>,
+      <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/Geo1370%20-%20Nutrient%20Lab%20Data.xlsx?raw=true">Data</a></td>
   </tr>
 
  <tr>
