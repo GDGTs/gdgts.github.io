@@ -17,6 +17,7 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
     <th>Analysis</th>
     <th>Equipment</th>
     <th>Lab Report Due By</th>
+    <th>Files</th>
   </tr>
 </thead>
 
@@ -33,9 +34,9 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
       <span class="label label-default">dissolved oxygen</span>
   </td>
   <td>
-      <span class="label label-info">field sampling equipment</span>
-      <span class="label label-info">in-situ measurment probes</span>
+      <span class="label label-info">in-situ measurement probes</span>
   </td>
+  <td>--</td>
   <td>--</td>
   </tr>
 
@@ -51,9 +52,10 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
       <span class="label label-default">PO<sub>4</sub></span>
       <span class="label label-default">Si</span></td>
   <td>
-      <span class="label label-info">continuous flow spectrophotometer</span>
+      <span class="label label-info">UV-Vis</span>
   </td>
   <td>10/17/2014</td>
+  <td><a href="https://canvas.brown.edu/courses/932674/files/43331826/download?wrap=1">Download</a></td>
   </tr>
 
  <tr>
@@ -73,6 +75,7 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
       <span class="label label-info">ICP-MS</span>
   </td>
   <td>11/3/2014</td>
+  <td>--</td>
   </tr>
 
   <tr>
@@ -89,6 +92,7 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
       <span class="label label-info">GC-MS</span>
   </td>
   <td>11/14/2014</td>
+  <td>--</td>
   </tr>
 
 </tbody>
