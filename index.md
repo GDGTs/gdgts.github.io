@@ -111,6 +111,7 @@ See below for information regarding the problem sets assigned during class.
     <th>Topic</th>
     <th>Average</th>
     <th>Std. Dev.</th>
+    <th>Files</th>
   </tr>
 </thead>
 
@@ -121,6 +122,7 @@ See below for information regarding the problem sets assigned during class.
   <td><a href="/problemsets.html"><span class="label label-success">Global Cycles</span></a></td>
   <td><span>91.8</span></td>
   <td><span>8.1</span></td>
+  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/Geo1370%20-%20Hundred%20Acre%20Cove%20Data.xlsx?raw=true">PS#1</a></td>
   </tr>
 
   <tr>
@@ -129,6 +131,7 @@ See below for information regarding the problem sets assigned during class.
   <td><a href="/problemsets.html"><span class="label label-success">Water Chemistry</span></a></td>
   <td><span>89.5</span></td>
   <td><span>6.2</span></td>
+  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/Geo1370%20-%20Hundred%20Acre%20Cove%20Data.xlsx?raw=true">PS#2</a></td>
   </tr>
 
   <tr>
@@ -137,6 +140,7 @@ See below for information regarding the problem sets assigned during class.
   <td><a href="/problemsets.html"><span class="label label-success">Thermodynamics</span></a></td>
   <td><span></span></td>
   <td><span></span></td>
+  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/Geo1370%20-%20Hundred%20Acre%20Cove%20Data.xlsx?raw=true">PS#3</a></td>
   </tr>
 
   <tr>
@@ -145,6 +149,7 @@ See below for information regarding the problem sets assigned during class.
   <td><a href="/problemsets.html"><span class="label label-success">Acid-Base</span></a></td>
   <td><span></span></td>
   <td><span></span></td>
+  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/Geo1370%20-%20Hundred%20Acre%20Cove%20Data.xlsx?raw=true">PS#4</a></td>
   </tr>
 
   <tr>
@@ -153,6 +158,7 @@ See below for information regarding the problem sets assigned during class.
   <td><a href="/problemsets.html"><span class="label label-success">Redox</span></a></td>
   <td><span></span></td>
   <td><span></span></td>
+  <td></td>
   </tr>
 
   <tr>
@@ -161,6 +167,7 @@ See below for information regarding the problem sets assigned during class.
   <td><a href="/problemsets.html"><span class="label label-success">Organics</span></a></td>
   <td><span></span></td>
   <td><span></span></td>
+  <td></td>
   </tr>
 
   <tr>
@@ -169,6 +176,7 @@ See below for information regarding the problem sets assigned during class.
   <td><a href="/problemsets.html"><span class="label label-success">Rivers & Lakes</span></a></td>
   <td><span></span></td>
   <td><span></span></td>
+  <td></td>
   </tr>
 
   </tbody>
