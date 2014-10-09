@@ -37,7 +37,7 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
       <span class="label label-info">in-situ measurement probes</span>
   </td>
   <td>--</td>
-  <td>--</td>
+  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/Geo1370%20-%20Hundred%20Acre%20Cove%20Data.xlsx?raw=true">Data</a></td>
   </tr>
 
   <tr>
