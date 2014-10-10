@@ -109,9 +109,9 @@ See below for information regarding the problem sets assigned during class.
     <th>#</th>
     <th>Date</th>
     <th>Topic</th>
+    <th>Files</th>
     <th>Average</th>
     <th>Std. Dev.</th>
-    <th>Files</th>
   </tr>
 </thead>
 
@@ -120,63 +120,63 @@ See below for information regarding the problem sets assigned during class.
   <td>1</td>
   <td>9/16/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Global Cycles</span></a></td>
+  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS1.docx?raw=true">PS#1</a></td>
   <td><span>91.8</span></td>
   <td><span>8.1</span></td>
-  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS1.docx?raw=true">PS#1</a></td>
   </tr>
 
   <tr>
   <td>2</td>
   <td>9/30/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Water Chemistry</span></a></td>
+  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS2.docx?raw=true">PS#2</a></td>
   <td><span>89.5</span></td>
   <td><span>6.2</span></td>
-  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS2.docx?raw=true">PS#2</a></td>
   </tr>
 
   <tr>
   <td>3</td>
   <td>10/9/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Thermodynamics</span></a></td>
-  <td><span></span></td>
-  <td><span></span></td>
   <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS3.docx?raw=true">PS#3</a></td>
+  <td><span></span></td>
+  <td><span></span></td>
   </tr>
 
   <tr>
   <td>4</td>
   <td>10/16/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Acid-Base</span></a></td>
-  <td><span></span></td>
-  <td><span></span></td>
   <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS4.docx?raw=true">PS#4</a></td>
+  <td><span></span></td>
+  <td><span></span></td>
   </tr>
 
   <tr>
   <td>5</td>
   <td>10/23/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Redox</span></a></td>
-  <td><span></span></td>
-  <td><span></span></td>
   <td></td>
+  <td><span></span></td>
+  <td><span></span></td>
   </tr>
 
   <tr>
   <td>6</td>
   <td>11/13/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Organics</span></a></td>
-  <td><span></span></td>
-  <td><span></span></td>
   <td></td>
+  <td><span></span></td>
+  <td><span></span></td>
   </tr>
 
   <tr>
   <td>7</td>
   <td>12/4/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Rivers & Lakes</span></a></td>
-  <td><span></span></td>
-  <td><span></span></td>
   <td></td>
+  <td><span></span></td>
+  <td><span></span></td>
   </tr>
 
   </tbody>
