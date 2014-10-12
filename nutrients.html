@@ -20,12 +20,12 @@ group: lab
 <h2 id="analytical-methods">Analytical Methods</h2>
 <p align="justify">The important role of nitrogen and phosphorous in the aquatic environment, demands accurate and reliable methodolody for monitoring their concentrations. For many aqueous nitrogen and phosphorous species, concentration is often determined by colorimetric spectroscopy, to quantify inorganic <strong>N</strong> and <strong>P</strong> down to the parts per billion concentration. Spectroscopy operates on the principle of molecules absorbing light proportional to the their concentration in solution. In order to maximize the absorbtion of light and increase the selectivity for a single molecular species, samples undergo a reaction targeting the desired analyte. For nitrogen and phosphorous analysis, organometallic reagents are typically used to selectively chelate the target analyte. The metal-analyte chelatation will often exhibit a unique spectroscopic signature, absorbing light of a specific wavelength. This absorbance is measured with a UV-Vis spectrometer, using sophisticated light diffraction and photodection techniques to determine the total absorbtion of a certain wavelength of light within a given sample. Absorbance is related to concentrations through <strong>Beer’s law</strong>:</p>
 
-<center>A = a * b * c</center>
-<p><br></p>
+<p align="center">A = a * b * c</<p>
 
 <p align="justify">Where, <b>A</b> is the absorbance of a specific wavelength of light, <b>a</b> is the molar absorptivity coefficient, <b>b</b> is the path length that the light travelled, and <b>c</b> is the concentration of the absorbing species in solution.</p>
 
 <center><iframe src="http://bl.ocks.org/GDGTs/raw/719d4fc9dd344f0ba31e/" width="500" height="320" seamless frameBorder="0" scrolling="no"></iframe></center>
+<br>
 
 <p>In this lab session, we will use the absorbance measurements obtained for our samples using the technique described above to calculate the concentration of various nutrients species in the Hundred Acre Cove aquatic environment. We will be targeting the analysis of NO<sub>3</sub>, NH<sub>4</sub>, PO<sub>4</sub> and SiO<sub>2</sub> from our <strong>Hundred Acre Cove</strong> samples using a Westco SmartChem200 UV-Vis spectrometer, a research grade analytical instrument designed specifically for high throughput environmental workflows.</p>
 
@@ -34,7 +34,7 @@ group: lab
 <p align="justify">Prepare three <span class="label label-default">NO<sub>3</sub><sup>-</sup></span> calibration standards using the stock solution provided by the TA. You’ll need the following materials:</p>
 
 <ol>
-  <li>10 mM <span class="label label-default">NO<sub>3</sub><sup>-</sup></span> stock solution.</li>
+  <li>10 mM NO<sub>3</sub></li>
   <li>DI water</li>
   <li>10 mL plastic test tubes</li>
   <li>precision pipettes</li>
@@ -53,3 +53,61 @@ group: lab
 <p><br /></p>
 
 <p align="justify">Taking 0.1 mL (V<sub>1</sub>) from the 10 mM starting solution (M<sub>1</sub>) and diluting it with 9.9 mL of water, gives the desired 10 mL (V<sub>2</sub>), 0.1 mM solution (M<sub>2</sub>). Use the handout provided by the TA to record the concentration and volume of the calibration standards you prepared.</p>
+
+<h2 id="calibration-standards">Calibration Curve</h2>
+
+<p align="justify">In order to determine the nutrient concentration in our samples, we need to establish an equation to convert the raw instrument data (i.e. absorbance) to concentration units (i.e. ppb). We can do this using a calibration curve, built with data obtained from standards of known concentrations. Use the data provided to construct a calibration curve for NH<sub>4</sub>, NO<sub>3</sub>, PO<sub>4</sub>, SiO<sub>2</sub>. Here’s a quick walkthrough for doing this in Excel or Google Docs:</p>
+
+<ol type="1">
+    <li><p align="justify">Open the file <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/Geo1370%20-%20Nutrient%20Lab%20Data.xlsx?raw=true">“Geo1370 - Nutrient Lab Data.xls”</a>.</p>
+    <li><p align="justify">We need to establish a linear regression equation for our data (y = mx + b) in order to convert absorbance to concentration.</p>
+        <ol type="a">
+        <li><p align="justify">To calculate the slope (m), find an empty cell and paste the following:</p>
+            <p align="center"><code>=slope(C2:C17, B2:B17)</code></p>
+            <p align="justify">Where B2:B17 are the concentration values of the calibration standards and C2:C17 are the absorbance values of the calibration standards.</p>
+        <li><p align="justify">Find an empty cell next to your calculated slope and paste the following:</p>
+            <p align="center"><code>=intercept(C2:C17, B2:B17)</code></p>
+        <li><p align="justify">Calculate the correlation coefficient between concentration and absorbance by pasting the following into an empty cell:</p>
+            <p align="center"><code>=correl(C2:C17, B2:B17)</code></p>
+        </ol>
+        <li><p align="justify">Alternatively, perform a linear regression using the built-in plotting functions:</p>
+            <ol type="a">
+                <li><p align="justify">Select the concentration and absorbance cells, then select the ‘Insert’ tab near the top of the screen.<p>
+                    <li><p align="justify"><b>Excel</b>: Select ‘Scatter’ or <b>Google Docs</b>: Select ‘Chart → Scatter’.</p>
+                    <li><p align="justify">Right click on any data point within the scatter plot. <b>Excel</b>Select: ‘Add Trendline’ or <b>Google Docs</b>Select: ‘Advanced Edit → ‘Series'.</p>
+                    <li><p align="justify">Select ‘Linear’ trendline and include the options to show equation and R<sup>2</sup>.</p>
+            </ol>
+        <li><p align="justify">Plot the calibration data and linear regression results for all four nutrients. Here's are the results for the NH<sub>4</sub> calibration data:</p>
+</ol>
+
+<center><iframe src="http://bl.ocks.org/GDGTs/raw/9c6d91446d98c62a541c/" width="500" height="320" seamless frameBorder="0" scrolling="no"></iframe></center>
+
+<h2 id="calibration-standards">Calibration Error</h2>
+
+<p align="justify">Before applying the calibration to your samples, evaluate the accuracy of your calibration model by examining the residual errors.</p>
+
+<ol type="1">
+    <li><p align="justify">Use your calibration equation to calculate the predicted concentration of your calibration standards.</p>
+
+    <center><iframe src="http://bl.ocks.org/GDGTs/raw/0dda962154a0cbce6ad5/" width="500" height="320" seamless frameBorder="0" scrolling="no"></iframe></center>
+
+    <li><p align="justify">Calculate the residuals by subtracting the predicted concentration from the actual concentration.</p>
+
+    <center><iframe src="http://bl.ocks.org/GDGTs/raw/08288541f00c7e8bac1c/" width="500" height="320" seamless frameBorder="0" scrolling="no"></iframe></center>
+
+    <li><p align="justify">Finally calculate the root-mean-square deviation of your calibration model (RMSD) to assess the accuracy of your model.</p>
+
+        <ol type="a">
+            <li><p align="justify">In a new column, square the residual values from each row.</p>
+
+                <center><iframe src="http://bl.ocks.org/GDGTs/raw/5a2579e0261dd789deea/" width="550" height="320" seamless frameBorder="0" scrolling="no"></iframe></center>
+
+            <li><p align="justify">Now calculate the sum of the residuals squared.</p>
+
+                <center><iframe src="http://bl.ocks.org/GDGTs/raw/36d6873dd71a1852e680/" width="550" height="320" seamless frameBorder="0" scrolling="no"></iframe></center>
+
+            <li><p align="justify">Calculate the average of residuals squared by dividing the sum of residuals squared by the number of samples. Take the square root of this value to obtain the RMSD.</p>
+
+                <center><iframe src="http://bl.ocks.org/GDGTs/raw/985e3c816da9ac5dfd73/" width="550" height="320" seamless frameBorder="0" scrolling="no"></iframe></center>
+
+            </ol></ol>
