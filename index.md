@@ -63,8 +63,8 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
   <td>3</td>
   <td>10/14/2014</td>
   <td>
-      <span class="label label-warning">Metals</span>
-  </td>
+      <a href="/nutrients.html"><span class="label label-warning">Metals</span>
+  </td></a>
   <td>
       <span class="label label-default">Cu</span>
       <span class="label label-default">Zn</span>
