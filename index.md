@@ -156,7 +156,7 @@ See below for information regarding the problem sets assigned during class.
   <td>5</td>
   <td>10/23/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Redox</span></a></td>
-  <td></td>
+  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS5.docx?raw=true">PS#5</a></td>
   <td><span></span></td>
   <td><span></span></td>
   </tr>
