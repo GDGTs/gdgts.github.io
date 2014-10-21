@@ -50,7 +50,7 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
       <span class="label label-default">NO<sub>3</sub></span>
       <span class="label label-default">NH<sub>4</sub></span>
       <span class="label label-default">PO<sub>4</sub></span>
-      <span class="label label-default">Si</span></td>
+      <span class="label label-default">SiO<sub>2</sub></span></td>
   <td>
       <span class="label label-info">UV-Vis</span>
   </td>
@@ -69,30 +69,32 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
       <span class="label label-default">Cu</span>
       <span class="label label-default">Zn</span>
       <span class="label label-default">Cd</span>
-      <span class="label label-default">Hg</span>
+      <span class="label label-default">Pb</span>
       <span class="label label-default">Cr</span>
+      <span class="label label-default">Mo</span>
+      <span class="label label-default">Mg</span>
+      <span class="label label-default">Ca</span>
   </td>
   <td>
       <span class="label label-info">ICP-MS</span>
   </td>
-  <td>11/3/2014</td>
+  <td>11/7/2014</td>
   <td>--</td>
   </tr>
 
   <tr>
   <td>4</td>
-  <td>10/28/2014</td>
+  <td>11/4/2014</td>
   <td>
       <span class="label label-danger">Organics</span>
   </td>
   <td>
       <span class="label label-default">PAHs</span>
-      <span class="label label-default">PCBs</span>
   </td>
   <td>
       <span class="label label-info">GC-MS</span>
   </td>
-  <td>11/14/2014</td>
+  <td>11/21/2014</td>
   <td>--</td>
   </tr>
 
