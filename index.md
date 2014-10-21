@@ -132,8 +132,8 @@ See below for information regarding the problem sets assigned during class.
   <td>9/30/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Water Chemistry</span></a></td>
   <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS2.docx?raw=true">PS#2</a></td>
-  <td><span>89.5</span></td>
-  <td><span>6.2</span></td>
+  <td><span>89.8</span></td>
+  <td><span>6.0</span></td>
   </tr>
 
   <tr>
@@ -141,8 +141,8 @@ See below for information regarding the problem sets assigned during class.
   <td>10/9/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Thermodynamics</span></a></td>
   <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS3.docx?raw=true">PS#3</a></td>
-  <td><span></span></td>
-  <td><span></span></td>
+  <td><span>84.8</span></td>
+  <td><span>16.2</span></td>
   </tr>
 
   <tr>
