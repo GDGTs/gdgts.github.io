@@ -140,7 +140,7 @@ See below for information regarding the problem sets assigned during class.
   <td>3</td>
   <td>10/9/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Thermodynamics</span></a></td>
-  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS3.docx?raw=true">PS#3, </a>
+  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS3.docx?raw=true">PS#3</a>,
       <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS3_Key.pdf?raw=true">Key</a></td>
   <td><span>84.8</span></td>
   <td><span>16.2</span></td>
