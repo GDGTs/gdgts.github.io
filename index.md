@@ -122,7 +122,8 @@ See below for information regarding the problem sets assigned during class.
   <td>1</td>
   <td>9/16/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Global Cycles</span></a></td>
-  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS1.docx?raw=true">PS#1</a></td>
+  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS1.docx?raw=true">PS#1</a>,
+      <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS1_Key.pdf?raw=true">Key</a></td>
   <td><span>91.5</span></td>
   <td><span>8.1</span></td>
   </tr>
