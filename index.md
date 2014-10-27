@@ -153,7 +153,7 @@ See below for information regarding the problem sets assigned during class.
   <td><a href="/problemsets.html"><span class="label label-success">Acid-Base</span></a></td>
   <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS4.docx?raw=true">PS#4</a>,
       <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS4_Key.pdf?raw=true">Key</a></td>
-  <td><span>83.5</span></td>
+  <td><span>82.8</span></td>
   <td><span>15.1</span></td>
   </tr>
 
@@ -161,9 +161,10 @@ See below for information regarding the problem sets assigned during class.
   <td>5</td>
   <td>10/23/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Redox</span></a></td>
-  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS5.docx?raw=true">PS#5</a></td>
-  <td><span></span></td>
-  <td><span></span></td>
+  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS5.docx?raw=true">PS#5</a>,
+      <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS5_Key.pdf?raw=true">Key</a></td>
+  <td><span></span>84.1</td>
+  <td><span></span>10.1</td>
   </tr>
 
   <tr>
