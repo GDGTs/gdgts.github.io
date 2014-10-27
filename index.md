@@ -151,7 +151,8 @@ See below for information regarding the problem sets assigned during class.
   <td>4</td>
   <td>10/16/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Acid-Base</span></a></td>
-  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS4.docx?raw=true">PS#4</a></td>
+  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS4.docx?raw=true">PS#4</a>,
+      <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS4_Key.pdf?raw=true">Key</a></td>
   <td><span>83.5</span></td>
   <td><span>15.1</span></td>
   </tr>
