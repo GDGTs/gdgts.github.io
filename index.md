@@ -132,7 +132,8 @@ See below for information regarding the problem sets assigned during class.
   <td>2</td>
   <td>9/30/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Water Chemistry</span></a></td>
-  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS2.docx?raw=true">PS#2</a></td>
+  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS2.docx?raw=true">PS#2</a>,
+      <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS2_Key.pdf?raw=true">Key</a></td>
   <td><span>89.8</span></td>
   <td><span>6.0</span></td>
   </tr>
