@@ -78,7 +78,7 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
   <td>
       <span class="label label-info">ICP-MS</span>
   </td>
-  <td>11/7/2014</td>
+  <td>11/24/2014</td>
   <td>--</td>
   </tr>
 
@@ -94,7 +94,7 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
   <td>
       <span class="label label-info">GC-MS</span>
   </td>
-  <td>11/21/2014</td>
+  <td>12/1/2014</td>
   <td>--</td>
   </tr>
 
