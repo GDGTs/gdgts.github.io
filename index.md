@@ -78,8 +78,8 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
   <td>
       <span class="label label-info">ICP-MS</span>
   </td>
-  <td>11/24/2014</td>
-  <td>--</td>
+  <td>12/1/2014</td>
+  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/Geo1370%20-%Metals%20Lab%20Data.xlsx?raw=true">Data</a></td>
   </tr>
 
   <tr>
@@ -94,7 +94,7 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
   <td>
       <span class="label label-info">GC-MS</span>
   </td>
-  <td>12/1/2014</td>
+  <td>N/A</td>
   <td>--</td>
   </tr>
 
@@ -181,7 +181,7 @@ See below for information regarding the problem sets assigned during class.
   <td>7</td>
   <td>12/4/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Rivers & Lakes</span></a></td>
-  <td><span></span></td>
+  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS7.docx?raw=true">PS#7</a></td>
   <td><span></span></td>
   <td><span></span></td>
   </tr>
