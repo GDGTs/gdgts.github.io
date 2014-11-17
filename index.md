@@ -78,8 +78,9 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
   <td>
       <span class="label label-info">ICP-MS</span>
   </td>
-  <td>12/1/2014</td>
-  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/Geo1370%20-%Metals%20Lab%20Data.xlsx?raw=true">Data</a></td>
+  <td>12/2/2014</td>
+  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/Geo1370%20-%Metals%20Lab%20Report.doc?raw=true">Report</a>
+      <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/Geo1370%20-%Metals%20Lab%20Data.xlsx?raw=true">Data</a></td>
   </tr>
 
   <tr>
