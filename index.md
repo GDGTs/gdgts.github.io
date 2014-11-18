@@ -87,7 +87,7 @@ The laboratory component consists of four sessions for the **Fall 2014** semeste
   <td>4</td>
   <td>11/4/2014</td>
   <td>
-      <span class="label label-danger">Organics</span>
+      <a href="/organics.html"><span class="label label-danger">Organics</span>
   </td>
   <td>
       <span class="label label-default">PAHs</span>
