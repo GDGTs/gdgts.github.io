@@ -165,8 +165,8 @@ See below for information regarding the problem sets assigned during class.
   <td><a href="/problemsets.html"><span class="label label-success">Redox</span></a></td>
   <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS5.docx?raw=true">PS#5</a>,
       <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS5_Key.pdf?raw=true">Key</a></td>
-  <td><span></span>84.1</td>
-  <td><span></span>10.1</td>
+  <td><span>84.4</span></td>
+  <td><span>5.8</span></td>
   </tr>
 
   <tr>
@@ -174,8 +174,8 @@ See below for information regarding the problem sets assigned during class.
   <td>11/13/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Organics</span></a></td>
   <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS6.docx?raw=true">PS#6</a></td>
-  <td><span></span></td>
-  <td><span></span></td>
+  <td><span>92.7</span></td>
+  <td><span>5.8</span></td>
   </tr>
 
   <tr>
