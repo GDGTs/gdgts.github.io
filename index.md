@@ -166,7 +166,7 @@ See below for information regarding the problem sets assigned during class.
   <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS5.docx?raw=true">PS#5</a>,
       <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS5_Key.pdf?raw=true">Key</a></td>
   <td><span>84.4</span></td>
-  <td><span>5.8</span></td>
+  <td><span>9.9</span></td>
   </tr>
 
   <tr>
