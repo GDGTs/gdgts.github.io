@@ -173,7 +173,8 @@ See below for information regarding the problem sets assigned during class.
   <td>6</td>
   <td>11/13/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Organics</span></a></td>
-  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS6.docx?raw=true">PS#6</a></td>
+  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS6.docx?raw=true">PS#6</a>,
+      <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS6_Key.pdf?raw=true">Key</a></td>
   <td><span>92.3</span></td>
   <td><span>5.9</span></td>
   </tr>
@@ -182,7 +183,8 @@ See below for information regarding the problem sets assigned during class.
   <td>7</td>
   <td>12/4/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Rivers & Lakes</span></a></td>
-  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS7.docx?raw=true">PS#7</a></td>
+  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS7.docx?raw=true">PS#7</a>,
+      <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS7_Key.pdf?raw=true">Key</a></td>
   <td><span>96.3</span></td>
   <td><span>5.7</span></td>
   </tr>
