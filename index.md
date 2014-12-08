@@ -185,8 +185,8 @@ See below for information regarding the problem sets assigned during class.
   <td><a href="/problemsets.html"><span class="label label-success">Rivers & Lakes</span></a></td>
   <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS7.docx?raw=true">PS#7</a>,
       <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS7_Key.pdf?raw=true">Key</a></td>
-  <td><span>96.3</span></td>
-  <td><span>5.7</span></td>
+  <td><span>95.4</span></td>
+  <td><span>6.8</span></td>
   </tr>
 
   </tbody>
