@@ -123,8 +123,7 @@ See below for information regarding the problem sets assigned during class.
   <td>1</td>
   <td>9/16/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Global Cycles</span></a></td>
-  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS1.docx?raw=true">PS#1</a>,
-      <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS1_Key.pdf?raw=true">Key</a></td>
+  <td></td>
   <td><span>91.5</span></td>
   <td><span>8.1</span></td>
   </tr>
@@ -133,8 +132,7 @@ See below for information regarding the problem sets assigned during class.
   <td>2</td>
   <td>9/30/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Water Chemistry</span></a></td>
-  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS2.docx?raw=true">PS#2</a>,
-      <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS2_Key.pdf?raw=true">Key</a></td>
+  <td></td>
   <td><span>89.8</span></td>
   <td><span>6.0</span></td>
   </tr>
@@ -143,8 +141,7 @@ See below for information regarding the problem sets assigned during class.
   <td>3</td>
   <td>10/9/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Thermodynamics</span></a></td>
-  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS3.docx?raw=true">PS#3</a>,
-      <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS3_Key.pdf?raw=true">Key</a></td>
+  <td></td>
   <td><span>85.5</span></td>
   <td><span>16.1</span></td>
   </tr>
@@ -153,8 +150,7 @@ See below for information regarding the problem sets assigned during class.
   <td>4</td>
   <td>10/16/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Acid-Base</span></a></td>
-  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS4.docx?raw=true">PS#4</a>,
-      <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS4_Key.pdf?raw=true">Key</a></td>
+  <td></td>
   <td><span>82.8</span></td>
   <td><span>15.1</span></td>
   </tr>
@@ -163,8 +159,7 @@ See below for information regarding the problem sets assigned during class.
   <td>5</td>
   <td>10/23/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Redox</span></a></td>
-  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS5.docx?raw=true">PS#5</a>,
-      <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS5_Key.pdf?raw=true">Key</a></td>
+  <td></td>
   <td><span>84.4</span></td>
   <td><span>9.9</span></td>
   </tr>
@@ -173,8 +168,7 @@ See below for information regarding the problem sets assigned during class.
   <td>6</td>
   <td>11/13/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Organics</span></a></td>
-  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS6.docx?raw=true">PS#6</a>,
-      <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS6_Key.pdf?raw=true">Key</a></td>
+  <td></td>
   <td><span>92.3</span></td>
   <td><span>5.9</span></td>
   </tr>
@@ -183,8 +177,7 @@ See below for information regarding the problem sets assigned during class.
   <td>7</td>
   <td>12/4/2014</td>
   <td><a href="/problemsets.html"><span class="label label-success">Rivers & Lakes</span></a></td>
-  <td><a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS7.docx?raw=true">PS#7</a>,
-      <a href="https://github.com/GDGTs/gdgts.github.io/blob/master/_includes/PS7_Key.pdf?raw=true">Key</a></td>
+  <td></td>
   <td><span>95.3</span></td>
   <td><span>6.1</span></td>
   </tr>
