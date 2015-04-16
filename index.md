@@ -112,7 +112,7 @@ See below for information regarding the problem sets assigned during class.
     <th>#</th>
     <th>Date</th>
     <th>Topic</th>
-    <th>Files</th>
+    <th></th>
     <th>Average</th>
     <th>Std. Dev.</th>
   </tr>
